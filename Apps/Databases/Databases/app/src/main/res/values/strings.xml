@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Databases</string>
+    <string name="store_information">Store Information</string>
+    <string name="show_information">Show Information</string>
+    <string name="shared_preferences">Shared Preferences</string>
+    <string name="sqlite">SQLite</string>
+    <string name="data">Data:</string>
+</resources>

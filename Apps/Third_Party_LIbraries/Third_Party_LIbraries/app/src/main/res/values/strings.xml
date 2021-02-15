@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Third_Party_LIbraries</string>
+    <string name="button">Button</string>
+    <string name="drawable">Drawable</string>
+    <string name="placeholder">Placeholder</string>
+    <string name="targets">Targets</string>
+    <string name="url">URL</string>
+    <string name="error">Error</string>
+    <string name="callback">Callback</string>
+    <string name="resize">Resize</string>
+    <string name="rotate">Rotate</string>
+    <string name="scale">Scale</string>
+    <string name="textview">TextView</string>
+    <string name="picasso">Picasso</string>
+    <string name="Glide">Glide</string>
+    <string name="TextDrawable">Text Drawable</string>
+    <string name="CircleImageView">CircleImageView</string>
+    <string name="todo">TODO</string>
+</resources>

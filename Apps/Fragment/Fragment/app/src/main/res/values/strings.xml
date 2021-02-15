@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Fragment</string>
+    <string name="fragment_no_1">Fragment No.1</string>
+    <string name="fragment_no_2">Fragment No.2</string>
+    <string name="this_is_fragment_a">This is Fragment A</string>
+    <string name="this_is_fragment_b">This is Fragment B</string>
+    <string name="string3">Click above buttons to select fragments</string>
+</resources>

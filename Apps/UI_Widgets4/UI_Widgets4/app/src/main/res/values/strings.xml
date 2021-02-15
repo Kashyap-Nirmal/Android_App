@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">UI_Widgets4</string>
+    <string name="progress">Progress Dialog</string>
+    <string name="progress1">Progress Bar</string>
+    <string name="progress2">Indeteminate Progress Bar</string>
+    <string name="rating">Rating Bar</string>
+    <string name="download_file">Download File</string>
+    <string name="Stop">Pause</string>
+    <string name="start">Start</string>
+    <string name="pause">Pause</string>
+</resources>

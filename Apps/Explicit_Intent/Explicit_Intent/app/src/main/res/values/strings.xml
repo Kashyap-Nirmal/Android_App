@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Explicit_Intent</string>
+    <string name="exit">Exit</string>
+    <string name="activity_3">ACtivity 3</string>
+    <string name="activity_2">ACtivity 2</string>
+    <string name="mainactivity">MainActivity</string>
+</resources>

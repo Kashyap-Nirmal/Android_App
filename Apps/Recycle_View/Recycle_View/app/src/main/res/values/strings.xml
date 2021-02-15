@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Recycle_View</string>
+    <string name="icon">Icon</string>
+    <string name="textview">Recycler view text 1</string>
+    <string name="grid_recycler_view">Grid Recycler View</string>
+    <string name="linear_recycler_view">Linear Recycler View</string>
+</resources>

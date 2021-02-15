@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Text_Over_Image</string>
+    <string name="name" />
+    <string name="icon">icon</string>
+    <string name="load_image">Load Image</string>
+    <string name="load_directory">Load Directory</string>
+    <string name="take_image">Take Image</string>
+    <string name="add_text_on_image">Add Text On Image</string>
+    <string name="enter_the_text">Enter the text</string>
+    <string name="todo">todo</string>
+    <string-array name="array_technology">
+        <item>Serif Bold Italic</item>
+    </string-array>
+</resources>

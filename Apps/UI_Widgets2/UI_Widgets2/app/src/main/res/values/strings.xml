@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">UI_Widgets2</string>
+    <string name="change_time">Change Time</string>
+    <string name="change_date">Change Date</string>
+    <string name="selectdate">Select Date</string>
+    <string name="selecttime">Select Time</string>
+</resources>

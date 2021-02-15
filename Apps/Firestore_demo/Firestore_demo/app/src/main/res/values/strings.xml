@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Firestore_demo</string>
+    <string name="button">Sign UP</string>
+    <string name="name" />
+    <string name="button1">Sign IN</string>
+</resources>

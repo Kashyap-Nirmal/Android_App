@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SMS_Manager</string>
+    <string name="Message">Message</string>
+    <string name="mobile_no">Mobile No.</string>
+    <string name="button">Send Message</string>
+</resources>

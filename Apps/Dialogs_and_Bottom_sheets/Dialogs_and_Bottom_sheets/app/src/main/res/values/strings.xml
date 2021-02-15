@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Dialogs_and_Bottom_sheets</string>
+    <string name="Close">Close</string>
+    <string name="dialog_message">Do you want to close this application?</string>
+    <string name="dialog_title">Alert Dialog Example</string>
+    <string name="Custom_Dialog">Custom Dialog</string>
+    <string name="text_click_me">Click Me</string>
+    <string name="text_more_contet_to_user">Bottom sheets</string>
+    <string name="text_pull_to_show_more">Pull to show more</string>
+    <string name="text_lorem_ipsum">Hello world</string>
+    <string name="string_bottom_sheet_behavior">STATE_COLLAPSED</string>
+    <string name="BottomSheets">BottomSheets</string>
+    <string name="bottomsheet">Bottom Sheet</string>
+</resources>

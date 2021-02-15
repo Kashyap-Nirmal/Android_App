@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Android_Animations</string>
+    <string name="fadein">fadein</string>
+    <string name="zoomin">zoomin</string>
+    <string name="rotate">rotate</string>
+    <string name="move">move</string>
+    <string name="textView">R1</string>
+    <string name="blink">blink</string>
+    <string name="image">image</string>
+    <string name="sequentialanimation">sequentialanimation</string>
+    <string name="slidedown">slidedown</string>
+    <string name="slideup">slideup</string>
+    <string name="zoomout">zoomout</string>
+    <string name="bounce">bounce</string>
+</resources>

@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Speech_to_Text</string>
+    <string name="textview">TextView</string>
+    <string name="togglebutton">ToggleButton</string>
+    <string name="on">ON</string>
+    <string name="off">OFF</string>
+    <string name="text_to_speech">Text to Speech</string>
+</resources>

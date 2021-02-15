@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Broadcast_Receiver</string>
+    <string name="broadcast_intent">Broadcast Intent</string>
+    <string name="rating">Broadcast Intent</string>
+</resources>
