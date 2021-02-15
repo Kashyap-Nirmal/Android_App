@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/tryframe"
+            android:icon="@drawable/ic_menu_camera"
+            android:title="Tryframe" />
+        <item
+            android:id="@+id/firestore"
+            android:title="Firestore" />
+        <item
+            android:id="@+id/tts"
+            android:title="TTS and STT" />
+        <item
+            android:id="@+id/activity_lifecycle"
+            android:title="Activity Lifecycle" />
+        <item
+            android:id="@+id/databases"
+            android:title="Databases" />
+        <item
+            android:id="@+id/third_party"
+            android:title="Third Party Libraries" />
+        <item
+            android:id="@+id/services"
+            android:title="Services" />
+        <item
+            android:id="@+id/broadcast_receivers"
+            android:title="Broadcast Receivers" />
+        <item
+            android:id="@+id/wifi_broadcast_receivers"
+            android:title="WIFI Broadcast Receivers" />
+        <item
+            android:id="@+id/blue_broadcast_receivers"
+            android:title="Bluetooth Broadcast Receivers" />
+        <item
+            android:id="@+id/video_view"
+            android:icon="@drawable/ic_menu_slideshow"
+            android:title="Video view" />
+        <item
+            android:id="@+id/animations"
+            android:title="Animations" />
+        <item
+            android:id="@+id/ui_widgets"
+            android:title="UI Widgets" />
+        <item
+            android:id="@+id/ui_widgets2"
+            android:title="UI Widgets2" />
+        <item
+            android:id="@+id/ui_widgets3"
+            android:title="UI Widgets3" />
+        <item
+            android:id="@+id/ui_widgets4"
+            android:title="UI Widgets4" />
+        <item
+            android:id="@+id/recycler_view"
+            android:title="Recycler View" />
+        <item
+            android:id="@+id/fragment"
+            android:title="Fragment" />
+        <item
+            android:id="@+id/panorama_view"
+            android:title="Panorama View" />
+        <item
+            android:id="@+id/intent"
+            android:title="Intent" />
+        <item
+            android:id="@+id/text_over_image"
+            android:title="Text Over Image" />
+        <item
+            android:id="@+id/product_view"
+            android:title="360 Product View" />
+    </group>
+</menu>
