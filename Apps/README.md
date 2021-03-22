@@ -9,12 +9,15 @@
 -> Explicit Intent
 
 -> UI Widget 1  
+
 		Toggle button, Check box Switch.
 	
 -> UI Widget 2  
+
 		Date picker,Time picker.
 	
 -> UI Widget 3  
+
 		Autocomplete textview, Spinner.
 	
 -> Styles & Themes
@@ -22,9 +25,11 @@
 -> Drawables
 
 -> UI Widget 4  
+
 		Rating bar, Progress dialog,Progress bar, Indeterminate progress bar.
 	
 -> Services  
+
 		Plays background music.
 	
 -> Speech to Text & Text To Speech.
@@ -44,6 +49,7 @@
 -> SMS Manager
 
 -> Recycler view
+
 		Linear,Grid.
 	
 -> Expandable List View
@@ -55,9 +61,10 @@
 	
 -> Google Map API 
 
-	Added a marker to [current loc + (10 , 10)]
+		Added a marker to [current loc + (10 , 10)]
 	
 -> Menus 
+
 	Context Menu, Pop up menu.
 	
 -> Dialogs and Bottom sheets 
