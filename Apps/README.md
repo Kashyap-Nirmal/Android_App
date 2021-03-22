@@ -54,10 +54,10 @@
 		Glide,Picaso.
 	
 -> Google Map API 
-		Added a marker to current loc + 10 10
+	Added a marker to [current loc + (10 , 10)]
 	
 -> Menus 
-		Context Menu, Pop up menu.
+	Context Menu, Pop up menu.
 	
 -> Dialogs and Bottom sheets 
 		Dialogs. Doesn't include bottom sheets
