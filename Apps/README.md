@@ -54,26 +54,32 @@
 		Glide,Picaso.
 	
 -> Google Map API 
+
 	Added a marker to [current loc + (10 , 10)]
 	
 -> Menus 
 	Context Menu, Pop up menu.
 	
 -> Dialogs and Bottom sheets 
+
 		Dialogs. Doesn't include bottom sheets
 
 -> Tryframe Demo
+
 		Included Splash Screen. Uses Google face API. Tried to set glasses at the threshold of some Degree. Not efficient
 	
 -> Bottom sheets
 
 -> Database 
+
 		SQLite, Shared preferences.
 	
 -> Firestore demo 
+
 		Simple Sign Up and login. Display all registered users to the admin.
 
 -> Text over image 
-		Download is not working. Need to change the intent for Loading directory.
+
+		Download functionality is not working. Need to change the intent for Loading directory.
 
 May-2019 to June-2019
