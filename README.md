@@ -1,5 +1,9 @@
 # Android_App
- Android apps portfolio. Various classes i.e. Telephony manager, Animations, SMS manager, Intent etc. have been impelemented as independent modules. Final app is an app with side nav bar. From where all the demo apps can be launced.
+-> Android apps portfolio. Various classes i.e. Telephony manager, Animations, SMS manager, Intent etc. have been impelemented as independent modules. Final app is an app with side nav bar. From where all the demo apps can be launced.
+ 
+-> This was developed as part of Android Intern at [Akash Technolabs, Ahmedabad](https://akashtechnolabs.com/).
+ 
+May 2019 - Jun 2019
 
 <table border="0" padding="10">
   <tr>
