@@ -1,5 +1,7 @@
 # Android Demo list
 
+May-2019 to June-2019
+
 -> Activity Life Cycle
 
 -> Fragment
@@ -88,5 +90,3 @@
 -> Text over image 
 
 		Download functionality is not working. Need to change the intent for Loading directory.
-
-May-2019 to June-2019
