@@ -2,6 +2,8 @@
 
 May-2019 to June-2019
 
+Various modules I have implemented respectively during my internship period are as below:
+
 -> Activity Life Cycle
 
 -> Fragment
