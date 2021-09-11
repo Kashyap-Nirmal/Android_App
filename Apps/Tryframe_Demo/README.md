@@ -2,7 +2,8 @@
 
 Reference: https://www.raywenderlich.com/523-augmented-reality-in-android-with-google-s-face-api
 
-The base code is used from the above reference. I have made my own tweaks.
+The base code is used from the above reference. I have made my own tweaks. The demo still 
+needs improvements. For now you can get the output for a certain set threshold of angles.
 
 <table border="0" padding="10">
   <tr>
