@@ -2,7 +2,11 @@
 
 May-2019 to June-2019
 
-Various modules I have implemented respectively during my internship period are as below:
+-'References.pdf' file contains few of the references used in creating these demos.
+
+-These demo apps were created and tested for Android 5 Lolipop. 
+
+-Various modules I have implemented respectively during my internship period are as below:
 
 -> Activity Life Cycle
 
