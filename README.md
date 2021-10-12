@@ -19,6 +19,7 @@ Android Studio
 - This ***native android*** project has implementations of a wide range of android classes and their independent demos.
 - There is a main app to launch all these demos.
 - Few of these classes are Activity life cycle classes, Google Face Api, SMS Manager, Telephony Manager, Speech to Text and Text To Speech, Services etc.
+- [`Report.pdf`](https://github.com/Kashyap-Nirmal/Android_App/blob/main/Report.pdf) is the report of this project.
  
 ### Duration `May 2019 - Jun 2019`
 
