@@ -8,19 +8,27 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=100&section=header&text=Android%20App%20Development&fontSize=60&fontAlignY=70" /> 
 </p>
 
-- Worked as an ***Android Intern*** for ***1.5 months***. This was developed as part of the internship at [`Akash Technolabs, Ahmedabad`](https://akashtechnolabs.com/). Learnt and implemented android modules from beginner to intermediate levels.
- 
-### Duration `May 2019 - Jun 2019`
+## Technology stack
+- Java
 
+## Tool used
+Android Studio
+
+## Introduction
+- Worked as an ***Android Intern*** for ***1.5 months***. This was developed as part of the internship at [`Akash Technolabs, Ahmedabad`](https://akashtechnolabs.com/). Learnt and implemented android modules from beginner to intermediate levels.
 - This ***native android*** project has implementations of a wide range of android classes and their independent demos.
 - There is a main app to launch all these demos.
 - Few of these classes are Activity life cycle classes, Google Face Api, SMS Manager, Telephony Manager, Speech to Text and Text To Speech, Services etc.
+ 
+### Duration `May 2019 - Jun 2019`
 
 ## Note
 - These demo apps were created and tested for ***Android 5 Lolipop***. 
 - ***Request app permissions was not available for Android 5***. So if you try to run these demos on ***newer versions of android, demo might crash due to missing permission***. If so happens, ***please manually grant the required permissions***.
 - APK files are available for download. Navigate to the app you would like to try. You can use the Table given below. The APK file is available there.
 - Some snapshots of the demos are also present along with the apps.
+- There are quite a few demos as you might have seen. I was under impression that I would merge all the small-small functionalities of these demo into a single app. But time did not permit it.
+- Still it was really ***great learning experience***. I can make a single application using the ***knowledge of all these demos, and the available codes***. I am planning to do it as soon as possible.
  
 ## `📋 Table of Contents 📋`
 
@@ -75,8 +83,6 @@
 <br>Creator [`Kashyap Nirmal`](https://github.com/Kashyap-Nirmal/)
 
 ## Note
-- There are quite a few demos as you might have seen. I was under impression that I would merge all the small-small functionalities of these demo into a single app. But time did not permit it.
-- Still it was really ***great learning experience***. I can make a single application using the ***knowledge of all these demos, and the available codes***. I am planning to do it as soon as possible.
 - Some functionalities added in these demos may be borrowed from various internet sources. I have added a ***refernces.pdf*** file. 
 - Some things added in the README.md file may be borrowed from some other repositories. 
 - If any reference is missing for the above two `Credit to the rightful owner.`
