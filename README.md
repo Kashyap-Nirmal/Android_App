@@ -19,7 +19,7 @@
 ## Note
 - These demo apps were created and tested for ***Android 5 Lolipop***. 
 - ***Request app permissions was not available for Android 5***. So if you try to run these demos on ***newer versions of android, demo might crash due to missing permission***. If so happens, ***please manually grant the required permissions***.
-- APK files are available for download.
+- APK files are available for download. Navigate to the app you would like to try. You can use the Table given below. The APK file is available there.
 - Some snapshots of the demos are also present along with the apps.
  
 ## `📋 Table of Contents 📋`
